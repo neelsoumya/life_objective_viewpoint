@@ -2,13 +2,13 @@
 
 An objective and complex systems viewpoint of life.
 
-Summary
+Quick Summary
 
-    * think of life as computation
+     think of life as computation
 
-    * on any kind of substrate
+     on any kind of substrate
 
-    * life is a continuum
+     life is a continuum
 
 
 
