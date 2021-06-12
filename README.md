@@ -2,6 +2,15 @@
 
 An objective and complex systems viewpoint of life.
 
+Summary
+
+    * think of life as computation
+
+    * on any kind of substrate
+
+    * life is a continuum
+
+
 
 * Paper
 
