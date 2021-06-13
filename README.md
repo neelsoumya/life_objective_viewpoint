@@ -6,7 +6,7 @@ Quick Summary
 
      think of life as computation
 
-     on any kind of substrate
+     on any kind of computational substrate (silicon/carbon)
 
      life is a continuum
 
