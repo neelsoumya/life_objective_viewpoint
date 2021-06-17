@@ -2,7 +2,7 @@
 
 An objective and complex systems viewpoint of life.
 
-Quick Summary
+Brief Summary
 
      think of life as computation
 
